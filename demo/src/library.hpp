@@ -1,5 +1,5 @@
 #pragma once
 
-namespace idxxx {
-	
-} // namespace idxxx
+#include "header.in"
+
+#include "footer.in"
